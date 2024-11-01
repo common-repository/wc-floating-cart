@@ -1,0 +1,5 @@
+
+.woocommerce button[name="update_cart"],
+.woocommerce input[name="update_cart"] {
+		display: none;
+}
